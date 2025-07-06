@@ -16,11 +16,11 @@ module.exports = {
 		envConfig: {}
 	},
 	onStart: async function ({ message }) {
-		const authorName = "Chitron Bhattacharjee";
+		const authorName = "Sexy Rocky";
 		const ownAge = "『20』";
-		const messenger = " //m.me/adirexcb";
-		const authorFB = " //www.facebook.com/adirexcb";
-		const authorNumber = "+8801316655254";
+		const messenger = " //m.me/Bangladesh.Top.Video.Editor.Rocky.Vai.320";
+		const authorFB = " //www.facebook.com/Bangladesh.Top.Video.Editor.Rocky.Vai.320";
+		const authorNumber = "+8801621251318";
 		const Status = "⩸____⩸";
 		const urls = [
 "https://drive.google.com/uc?export=view&id=1mzJeualLnMS-wABThyCQFfJsX-2hMADG",
@@ -50,7 +50,7 @@ module.exports = {
 \⏰彡𝑁𝑜𝑤 𝑇𝑖𝑚𝑒 : ${time}
 \🔰彡𝐴𝑛𝑦 𝐻𝑒𝑙𝑝 𝐶𝑜𝑛𝑡𝑎𝑐𝑡 : ${messenger}__⩸
 \📛彡𝐵𝑜𝑡 𝐼𝑠 𝑅𝑢𝑛𝑛𝑖𝑛𝑔 𝐹𝑜𝑟 : ${uptimeString}
- 𝑰𝒏𝒔𝒕𝒂: //www.instagram.com/brand_chitron__
+ 𝑰𝒏𝒔𝒕𝒂: //www.instagram.com/rocky.bd.top.video.editor__
 \===============`,
 			attachment: await global.utils.getStreamFromURL(link)
 		});
